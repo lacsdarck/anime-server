@@ -1,0 +1,19 @@
+{
+  "name": "animate-server",
+  "version": "1.0.0",
+  "description": "un chat en tiempo real con video y gifs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lacsdarck/anime-server"
+  },
+  "author": "lacsdarck <lacsdarck@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/lacsdarck/anime-server/issues"
+  },
+  "homepage": "https://github.com/lacsdarck/anime-server"
+}
